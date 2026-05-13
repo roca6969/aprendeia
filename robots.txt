@@ -1,0 +1,12 @@
+# robots.txt — AprendeIA.net
+# Generado para GitHub Pages
+
+User-agent: *
+Allow: /
+
+# Bloquear archivos que no deben indexarse
+Disallow: /assets/
+Disallow: /*.json$
+
+# Sitemap
+Sitemap: https://aprendeia.github.io/aprendeia/sitemap.xml
